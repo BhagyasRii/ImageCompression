@@ -1,4 +1,4 @@
-streamlit
 numpy
-opencv-python
 scikit-learn
+streamlit
+opencv-python-headless
